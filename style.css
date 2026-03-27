@@ -1,5 +1,5 @@
 :root {
-  --bg: url('texture/2k_stars.jpg');
+  --bg: url('2k_stars.jpg');
 }
 
 * { box-sizing: border-box; }
@@ -29,7 +29,7 @@ body {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background-image: url('texture/2k_sun.jpg');
+  background-image: url('2k_sun.jpg');
   background-size: cover;
   box-shadow: 0 0 50px rgba(255, 138, 0, 0.7);
 }
@@ -137,12 +137,12 @@ body {
   top: 50%;
   left: -12px;
   transform: translateY(-50%);
-  background-image: url('texture/2k_saturn_ring_alpha.png');
+  background-image: url('2k_saturn_ring_alpha.png');
   background-size: cover;
   border-radius: 50%;
 }
-.uranus { width: 35px; height: 35px; background-image: url('texture/2k_uranus.jpg'); }
-.neptune { width: 35px; height: 35px; background-image: url('texture/2k_neptune.jpg'); }
+.uranus { width: 35px; height: 35px; background-image: url('2k_uranus.jpg'); }
+.neptune { width: 35px; height: 35px; background-image: url('2k_neptune.jpg'); }
 .pluto { width: 18px; height: 18px; background: linear-gradient(140deg, #deb887, #a05b31); }
 
 .moon {
@@ -152,7 +152,7 @@ body {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-image: url('texture/2k_moon.jpg');
+  background-image: url('2k_moon.jpg');
   background-size: cover;
   animation: moon-orbit 2s linear infinite;
 }
