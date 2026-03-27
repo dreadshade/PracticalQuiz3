@@ -123,12 +123,12 @@ body {
   background-repeat: no-repeat;
 }
 
-.mercury { width: 20px; height: 20px; background-image: url('texture/2k_mercury.jpg'); }
-.venus { width: 25px; height: 25px; background-image: url('texture/2k_venus_atmosphere.jpg'); }
-.earth { width: 30px; height: 30px; background-image: url('texture/2k_earth_daymap.jpg'); }
-.mars { width: 22px; height: 22px; background-image: url('texture/2k_mars.jpg'); }
-.jupiter { width: 50px; height: 50px; background-image: url('texture/2k_jupiter.jpg'); }
-.saturn { width: 45px; height: 45px; background-image: url('texture/2k_saturn.jpg'); }
+.mercury { width: 20px; height: 20px; background-image: url('2k_mercury.jpg'); }
+.venus { width: 25px; height: 25px; background-image: url('2k_venus_atmosphere.jpg'); }
+.earth { width: 30px; height: 30px; background-image: url('2k_earth_daymap.jpg'); }
+.mars { width: 22px; height: 22px; background-image: url('2k_mars.jpg'); }
+.jupiter { width: 50px; height: 50px; background-image: url('2k_jupiter.jpg'); }
+.saturn { width: 45px; height: 45px; background-image: url('2k_saturn.jpg'); }
 .saturn::before {
   content: '';
   position: absolute;
